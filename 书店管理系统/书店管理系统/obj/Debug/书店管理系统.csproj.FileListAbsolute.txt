@@ -1,0 +1,38 @@
+H:\vs2015 codes\书店管理系统\书店管理系统\bin\Debug\书店管理系统.exe.config
+H:\vs2015 codes\书店管理系统\书店管理系统\bin\Debug\书店管理系统.exe
+H:\vs2015 codes\书店管理系统\书店管理系统\bin\Debug\书店管理系统.pdb
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.csprojResolveAssemblyReference.cache
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.Properties.Resources.resources
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.csproj.GenerateResource.Cache
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.exe
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.pdb
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.CusInfo.resources
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.CusView.resources
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.Main.resources
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.Register.resources
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.Login.resources
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.ShoppingCar.resources
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.CusOrder.resources
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.OrderDetail.resources
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.Manager.resources
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.ManagerInfo.resources
+H:\vs2015 codes\书店管理系统\书店管理系统\obj\Debug\书店管理系统.BookAdd.resources
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\bin\Debug\书店管理系统.exe.config
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.exe
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.pdb
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\bin\Debug\书店管理系统.exe
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\bin\Debug\书店管理系统.pdb
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.csprojResolveAssemblyReference.cache
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.BookAdd.resources
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.CusInfo.resources
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.CusOrder.resources
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.CusView.resources
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.Main.resources
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.Manager.resources
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.ManagerInfo.resources
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.OrderDetail.resources
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.Register.resources
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.Login.resources
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.Properties.Resources.resources
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.ShoppingCar.resources
+F:\作业+实验报告\大三\大三上数据库\书店管理系统\书店管理系统\书店管理系统\obj\Debug\书店管理系统.csproj.GenerateResource.Cache
